@@ -9,7 +9,7 @@ h1 {
 	justify-content: center;
 }
 
-.head, .left_arm, .torso, .right_arm, .left_leg, .right_leg
+.head, .left_arm, .torso, .right_arm, .left_leg, .right_leg {
 	 background-color: rgb(240, 175, 185);
 }
 
